@@ -110,6 +110,7 @@ body {
   .card__content {
     text-align: center;
     padding: 3rem;
+    border-bottom-right-radius: 5px;
   }
 
   .card__content > * {
@@ -141,5 +142,6 @@ body {
       url(../img/image-header-mobile.jpg);
     background-size: cover;
     height: 30rem;
+    border-top-left-radius: 5px;
   }
 }
